@@ -1,5 +1,5 @@
 
-# aristois-by-xen-new-base  
+# aristois-by-xen-v2  
  
 ##  thx to alphauc for og [sdk](https://github.com/alphauc/sdk)
 ##  thx too kuciak666/des1gner for [aristois](https://github.com/designer1337/aristois-legit) and the [updated version alphauc/sdk](https://github.com/designer1337/csgo-cheat-base) with undetected hooking etc.
